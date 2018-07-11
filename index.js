@@ -12,6 +12,10 @@ function scuberGreetingForFeet(feet){
   }
 }
 
-function temaryCheckCity(){
-  
+function temaryCheckCity(city){
+  if(city === "NYC"){
+    
+  }else{
+    
+  }
 }

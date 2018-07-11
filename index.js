@@ -14,8 +14,8 @@ function scuberGreetingForFeet(feet){
 
 function temaryCheckCity(city){
   if(city === "NYC"){
-    return "Okay sound"
+    return "Ok, sounds good"
   }else{
-    
+    return "No go."
   }
 }

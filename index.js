@@ -2,6 +2,7 @@
 
 function scuberGreetingForFeet(feet){
   if(feet <= 400){
-    return ""
+    return "This one is on me!"
   }
+  else if()
 }
